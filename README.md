@@ -1,2 +1,2 @@
 # ssh-mate
-SSH Mate is a user-friendly terminal application designed to simplify SSH connections by providing easy access to host information.
+SSH Mate is a user-friendly terminal application designed to simplify SSH connections by providing easy access to host information. With SSH Mate, you can effortlessly manage and connect to your SSH hosts without the need to remember or type their IP addresses or hostnames. The application offers a secure and encrypted storage solution for your host details and uses a simple text-based user interface to enhance your workflow. Say goodbye to manual entry and streamline your SSH connections with SSH Mate.
